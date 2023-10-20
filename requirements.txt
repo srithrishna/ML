@@ -4,3 +4,4 @@ matplotlib
 pickle-mixin
 gunicorn
 flask
+sklearn
